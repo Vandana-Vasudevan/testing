@@ -7,7 +7,7 @@
 } */
 
 .special :not(h1) {
-  background-color: rgb(128, 189, 146);
+  background-color: #47388f;
   color: wheat;
   text-transform: uppercase;
 }
