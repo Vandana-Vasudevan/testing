@@ -1,0 +1,12 @@
+/* :is(nav, header, section) h2 {
+  background-color: orange;
+  color: black;
+}
+:is(nav, header, section) h2:hover {
+  background-color: green;
+} */
+
+.special :not(h1) {
+  background-color: rgb(173, 85, 85);
+  color: wheat;
+}
